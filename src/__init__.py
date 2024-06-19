@@ -1,1 +1,1 @@
-from .prisionExperiment import PrisionExperiment
+from .prisonExperiment import PrisonExperiment
